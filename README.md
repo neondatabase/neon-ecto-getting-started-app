@@ -1,21 +1,6 @@
-# Friends
+# neon-ecto-getting-started-app
+Neon Ecto Getting Started
 
-**TODO: Add description**
+This repository contains the application setup described in [Connect from Elixir with Ecto to Neon](https://neon.tech/docs/guides/elixir-ecto).
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `friends` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:friends, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/friends>.
-
+The application is based on the [Ecto Getting Started](https://hexdocs.pm/ecto/getting-started.html#content) guide, modified to demonstrate connecting to a Neon Serverless Postgres database. It is assumed that you have a working installation of Elixir.
